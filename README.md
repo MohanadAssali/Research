@@ -7,5 +7,5 @@ The following research papers are mainly derived from over five years of observa
 ---
 
 Research Papers:
-- **Dual-Interpreted News Events (DIN)**
-
+- **Dual-Interpreted News Events**
+- **News Sequence Hypothesis: Linear and Non-Linear Sequences**
